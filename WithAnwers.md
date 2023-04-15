@@ -89,7 +89,7 @@ C. `align`
 D. `noshade`     
 E. `size`  
 
-Answer: C
+Answer: B
 
 # Q4.
 Inline elements typically do not initiate a new line in the document flow by default, whereas block elements usually cause a line break. However, it's important to note that this behavior can be altered using CSS, as is often the case with web page design.
